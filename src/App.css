@@ -1,0 +1,30 @@
+ul{
+  gap: 10px;
+  
+}
+li{
+ list-style-type: none;
+ 
+}
+h1{
+  font-size: 40px;
+}
+.rr{
+  font-size: 60px;
+  font-weight: 700;
+  color: rgb(238, 61, 120);
+  text-align: center;
+}
+.ques{
+  position: relative;
+  left: 300px;
+}
+button{
+  position: relative;
+  left: 40px;
+}
+.total{
+  text-align: center;
+  font-size: 50px;
+  color: rgb(18, 111, 1);
+}
