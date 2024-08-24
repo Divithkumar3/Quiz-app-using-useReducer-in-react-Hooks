@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/css/main.cc2cca64.css",
-    "main.js": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/js/main.e87f9593.js",
-    "static/js/453.2b0627e5.chunk.js": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/js/453.2b0627e5.chunk.js",
-    "static/media/chahal.jpeg": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/media/chahal.3c40369fbde5e7ce21ec.jpeg",
-    "static/media/manoj.webp": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/media/manoj.543ab85cdddfdbec98d3.webp",
-    "static/media/sharuk.avif": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/media/sharuk.46722d5e007b756fe579.avif",
-    "index.html": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/index.html",
-    "main.cc2cca64.css.map": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/css/main.cc2cca64.css.map",
-    "main.e87f9593.js.map": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/js/main.e87f9593.js.map",
-    "453.2b0627e5.chunk.js.map": "/Divithkumar3/Quiz-app-using-useReducer-in-react-Hooks/static/js/453.2b0627e5.chunk.js.map"
+    "main.css": "/Quiz-app-using-useReducer-in-react-Hooks/static/css/main.cc2cca64.css",
+    "main.js": "/Quiz-app-using-useReducer-in-react-Hooks/static/js/main.51a7b4de.js",
+    "static/js/453.2b0627e5.chunk.js": "/Quiz-app-using-useReducer-in-react-Hooks/static/js/453.2b0627e5.chunk.js",
+    "static/media/chahal.jpeg": "/Quiz-app-using-useReducer-in-react-Hooks/static/media/chahal.3c40369fbde5e7ce21ec.jpeg",
+    "static/media/manoj.webp": "/Quiz-app-using-useReducer-in-react-Hooks/static/media/manoj.543ab85cdddfdbec98d3.webp",
+    "static/media/sharuk.avif": "/Quiz-app-using-useReducer-in-react-Hooks/static/media/sharuk.46722d5e007b756fe579.avif",
+    "index.html": "/Quiz-app-using-useReducer-in-react-Hooks/index.html",
+    "main.cc2cca64.css.map": "/Quiz-app-using-useReducer-in-react-Hooks/static/css/main.cc2cca64.css.map",
+    "main.51a7b4de.js.map": "/Quiz-app-using-useReducer-in-react-Hooks/static/js/main.51a7b4de.js.map",
+    "453.2b0627e5.chunk.js.map": "/Quiz-app-using-useReducer-in-react-Hooks/static/js/453.2b0627e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc2cca64.css",
-    "static/js/main.e87f9593.js"
+    "static/js/main.51a7b4de.js"
   ]
 }
